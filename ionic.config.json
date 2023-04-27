@@ -1,0 +1,7 @@
+{
+  "name": "tablero-de-novedades",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
