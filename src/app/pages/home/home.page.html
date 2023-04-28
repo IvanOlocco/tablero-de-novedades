@@ -1,0 +1,24 @@
+<ion-header [translucent]="true">
+  <ion-toolbar class="ion-padding-start ion-padding-end">
+    <ion-label color="secondary">Tablero de Novedades</ion-label>
+    <ion-img slot="end" src="assets/images/logo-quilmes-cuadrado.jpg"></ion-img>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="content">
+    <div class="content-cont">
+      <ion-grid>
+        <ion-row>
+          <ion-col size="6" sizeMd="4" *ngFor="let b of newsButton; let i = index">
+            <ion-row class="ion-justify-content-center ion-align-items-center">
+              <ion-button color="primary" class="ion-margin border-radius-20" (click)="goPage('news-description')">
+                <ion-label>{{ b.title }}</ion-label>
+              </ion-button>
+            </ion-row>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+    </div>
+  </div>
+</ion-content>
