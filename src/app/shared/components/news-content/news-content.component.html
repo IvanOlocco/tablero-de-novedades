@@ -7,12 +7,12 @@
     </ion-button>
 
     <ion-grid>
-      <ion-row *ngIf="newsText.title">
+      <ion-row *ngIf="newsText.title" class="ion-margin-vertical">
         <ion-col>
           <ion-label class="title">{{ newsText.title }}</ion-label>
         </ion-col>
       </ion-row>
-      <ion-row *ngIf="newsText.text">
+      <ion-row *ngIf="newsText.text" class="ion-margin-bottom">
         <ion-col>
           <ion-label class="text" [innerHTML]="newsText.text"></ion-label>
         </ion-col>
@@ -38,7 +38,7 @@
         <ion-col *ngIf="newsText.link2.image">
           <ion-icon name="checkmark-circle-outline"></ion-icon>
           <ion-label>{{ newsText.link2.name }}:</ion-label><br>
-          <img width="320px" [src]="newsText.link2.image">
+          <img [src]="newsText.link2.image">
         </ion-col>
       </ion-row>
       <ion-row *ngIf="newsText.link3">
