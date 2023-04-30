@@ -18,6 +18,10 @@
             "link2": {
                 "name": "Seguimiento",
                 "image": "assets/images/foto-target-B20.jpg"
+            },
+            "link3": {
+                "name": "Link para canjes",
+                "link": "https://bees.canjeapromo.com.ar/"
             }
         },
         {
