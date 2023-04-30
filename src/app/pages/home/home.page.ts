@@ -26,8 +26,8 @@ export class HomePage implements OnInit {
     this.newsButton = this.texts;
   }
 
-  goPage(page: string) {
-    this.ionicService.goPage(page);
+  goPage(page: string, i: number) {
+    this.ionicService.goPage(page, i);
   }
 
 }

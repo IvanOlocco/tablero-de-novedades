@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { IonicService } from 'src/app/services/ionic.service';
 
 import textInformation from 'src/assets/news-info/text.json';
@@ -9,14 +9,17 @@ import textInformation from 'src/assets/news-info/text.json';
   styleUrls: ['./news-content.component.scss'],
 })
 export class NewsContentComponent  implements OnInit {
+  @Input() newsId: any;
 
   texts: any = textInformation;
+  newsText: any;
 
-  constructor(private ionicService: IonicService,) {
+  constructor(private ionicService: IonicService) {
   }
 
   ngOnInit() {
-    console.log('texts', this.texts)
+    this.newsText = this.texts.news[this.newsId-1]
+    console.log('news texts', this.newsText)
   }
 
   goPage(page: string) {

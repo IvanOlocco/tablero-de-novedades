@@ -14,7 +14,7 @@ export class IonicService {
    * @param page name of the page (string)
    */
 
-  goPage(page: string, param?: string) {
+  goPage(page: string, param?: number) {
     const urlParam = !!param ? param : '';
     this.router.navigate([`${page}/${urlParam}`], { replaceUrl: true });
   }

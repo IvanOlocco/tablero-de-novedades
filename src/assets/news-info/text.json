@@ -1,44 +1,68 @@
 {
     "news": [
         {
-            "title": "Proyectos",
-            "text": "info",
-            "imgSrc": ""
+            "title": "Target Basic Store",
+            "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV. Se encuentra dentro de los targets anuales y su forma de medicion es bimensual.",
+            "link1": {
+                "name": "Seguimiento",
+                "link": "https://drive.google.com/drive/folders/1p9pnIQw1a-bT0DA9rSy7WGvRJCeilj6w"
+            }
         },
         {
-            "title": "Seguimiento de pedidos",
-            "text": "info",
-            "imgSrc": ""
+            "title": "Target B2O",
+            "text": "Es un programa que busca trasladar al cliente final descuentos agresivos en productos de todos los negocios.\nEl cliente accede a la promo escaneando un QR y el pdv valida un cod para recibir puntos a cambio.",
+            "link1": {
+                "name": "Link para canjes",
+                "link": "https://bees.canjeapromo.com.ar/"
+            },
+            "link2": {
+                "name": "Seguimiento",
+                "image": "assets/images/foto-target-B20.jpg"
+            }
         },
         {
-            "title": "Proyecto de jugos",
-            "text": "info",
-            "imgSrc": ""
+            "title": "Target CCC MKP",
+            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales",
+            "link1": {
+                "name": "Link Marketplace day",
+                "link": "https://bees.canjeapromo.com.ar/"
+            },
+            "link2": {
+                "name": "Seguimiento",
+                "link": "https://bees.canjeapromo.com.ar/"
+            }
         },
         {
-            "title": "Proyectos",
-            "text": "info",
-            "imgSrc": ""
+            "title": "Target Basic Store",
+            "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV. Se encuentra dentro de los targets anuales y su forma de medicion es bimensual.",
+            "link1": {
+                "name": "Seguimiento",
+                "link": "https://drive.google.com/drive/folders/1p9pnIQw1a-bT0DA9rSy7WGvRJCeilj6w"
+            }
         },
         {
-            "title": "Proyectos",
-            "text": "info",
-            "imgSrc": ""
+            "title": "Target B2O",
+            "text": "Es un programa que busca trasladar al cliente final descuentos agresivos en productos de todos los negocios.\nEl cliente accede a la promo escaneando un QR y el pdv valida un cod para recibir puntos a cambio. Es target mensual de la compañia y hay objetivos por promotor de manera mensual. Para cumplir con el obj el Pdv debe canjear al menos 5 promos en el mes.",
+            "link1": {
+                "name": "Link para canjes",
+                "link": "https://bees.canjeapromo.com.ar/"
+            },
+            "link2": {
+                "name": "Seguimiento",
+                "image": "assets/images/foto-target-B20.jpg"
+            }
         },
         {
-            "title": "Proyectos",
-            "text": "info",
-            "imgSrc": ""
-        },
-        {
-            "title": "Proyectos",
-            "text": "info",
-            "imgSrc": ""
-        },
-        {
-            "title": "Proyectos",
-            "text": "info",
-            "imgSrc": ""
+            "title": "Target CCC MKP",
+            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales",
+            "link1": {
+                "name": "Link Marketplace day",
+                "link": "https://bees.canjeapromo.com.ar/"
+            },
+            "link2": {
+                "name": "Seguimiento",
+                "link": "https://bees.canjeapromo.com.ar/"
+            }
         }
     ]
 }
