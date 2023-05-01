@@ -2,7 +2,7 @@
     "news": [
         {
             "title": "TARGET Basic Store",
-        "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV.\nSe encuentra dentro de los targets anuales y su forma de medicion es bimensual. Los productos necesarios para completar el Basic Store son....\n*ENEMIGO PEPSI: Pepsi Regular familiar sin reco\n*7up familiares\n*Mirinda\n*Gatorade\n*Gaseosas SS (si es Kiosco)\n*Gaseosas Familiares Non Sugar (si es Tradicional)\n*Vino Novecento Core\n*Vino Premium o Espumante o Gin o Sidra",
+        "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV.\nSe encuentra dentro de los targets anuales y su forma de medicion es bimensual. Los productos necesarios para completar el Basic Store son....\n\n*ENEMIGO PEPSI: Pepsi Regular familiar sin reco\n*7up familiares\n*Mirinda\n*Gatorade\n*Gaseosas SS (si es Kiosco)\n*Gaseosas Familiares Non Sugar (si es Tradicional)\n*Vino Novecento Core\n*Vino Premium o Espumante o Gin o Sidra",
             "link1": {
                 "name": "Seguimiento",
                 "link": "https://drive.google.com/drive/folders/1p9pnIQw1a-bT0DA9rSy7WGvRJCeilj6w"
@@ -49,16 +49,40 @@
             }
         },
         {
-            "title": "Target CCC MKP",
-            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales",
+            "title": "Ejecucion Bees Force",
+            "text": "Las tareas de ejecucion dentro de BeesForce conforman uno de los 4 pilares de la rutina del promotor de ventas. Desde el area de Demand Acceleration se le esta dando un foco especial a estas tareas ya que se encuentran en constante mejora y entrenamiento de la mano de Bees Vision, el algoritmo de reconocimiento visual que proporciona sustento a la hora de la validacion de tareas\nEste mes se hara un seguimiento aperturado por promotor para entender el avance dia a dia de tareas completadas y validadas. De manera de comprender la situacion general y particular del desempeño de cada uno",
             "link1": {
-                "name": "Link Marketplace day",
-                "link": "https://bees.canjeapromo.com.ar/"
+                "name": "Tareas y POP entrenado",
+                "link": "https://docs.google.com/presentation/d/1RyrZW65hZxCKRgzM55Y819fIr04Vov8a/edit?usp=share_link&ouid=117187957927752788403&rtpof=true&sd=true"
             },
             "link2": {
                 "name": "Seguimiento",
-                "link": "https://bees.canjeapromo.com.ar/"
+                "image": "assets/images/foto-beesvision.jpg"
             }
-        }
-    ]
+        },
+        {
+            "title": "Censo Thomas",
+            "text": "El Censo Thomas es un proceso por el cual se busca entender de manera organica el Share of Market de nuestas marcas en comparacion con las de la competencia. Los datos a recojer de cada PDV es la venta de nuestras marcas al cliente final y la de nuestros competidores, asi luego poder expresar los resultados en porcentajes y elaborar analsis en busca de optimizar los puntos fuertes y revisar los debiles\n\nEste año, el Censo es realizado mediante BeesForce. Los PDVs fueron divididos en 3 semanas de gestion, mientras que en la ultima semana todos aquellos puntos de venta no completados estaran disponibles para ser censados.\nDebido a complicaciones en los primeros dias de lanzamiento, se ha extendido el proceso una semana mas",
+            "link1": {
+                "name": "Seguimiento",
+                "image": "assets/images/foto-censo.jpg"
+            }
+        },
+        {
+            "title": "PEPSI 2L Descartable",
+            "text": "En toda la directa de Cordoba nos encontramos en un proceso de traspaso de la Pepsi Reco de 2l hacia la Pepsi de 2l descartable. Desde el area de NABs se esta empujando este cambio de producto ya que la RECO en cuestiones de rentabilidad siempre se encuentra al limite, mientras que la descartable, aun al mismo precio sigue otorgando mejor margen.",
+            "link1": {
+                "name": "Bees",
+                "image": "assets/images/foto-pepsi2l.jpg"
+            }
+        },
+        {
+            "title": "Lista de Precios",
+            "text": "Lista de Precio actual:\n\nCVZ: 28/04/2023\nUNG: 21/04/2023\nAGUAS: 21/04/2023\nVINOS: 21/04/2023\nADY: 21/04/2023\nMKP: 28/04/2023",
+            "link1": {
+                "name": "Listas",
+                "link": "https://drive.google.com/drive/folders/1j6vWu98gmSJwq3DmKr8EeS-NQqOZOVeG?usp=share_link"
+            }    
+        }                        
+    ]   
 }
