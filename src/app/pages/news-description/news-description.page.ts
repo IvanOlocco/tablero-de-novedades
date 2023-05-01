@@ -3,8 +3,8 @@ import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-news-description',
-  templateUrl: './news-description.page.html',
-  styleUrls: ['./news-description.page.scss'],
+  templateUrl: 'news-description.page.html',
+  styleUrls: ['news-description.page.scss'],
 })
 export class NewsDescriptionPage implements OnInit {
   public newsId: any;
