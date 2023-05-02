@@ -82,6 +82,10 @@
             "link1": {
                 "name": "Listas",
                 "link": "https://drive.google.com/drive/folders/1j6vWu98gmSJwq3DmKr8EeS-NQqOZOVeG?usp=share_link"
+            },
+            "link2": {
+                "name": "Precios Mayoristas",
+                "image": "assets/images/foto-preciosmayo.jpg"
             }    
         }                        
     ]   

@@ -1,6 +1,6 @@
 .content {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: flex-start;
     margin: 10px;
 }
@@ -31,12 +31,22 @@ ion-icon {
 }
   
 @media only screen and (min-width: 1200px) {
+
+    .content {
+        justify-content: center;
+    }
+
     .content-cont {
         width: 60%;
     }
 }
 
 @media only screen and (min-width: 768px) {
+
+    .content {
+        justify-content: center;
+    }
+
     .content-cont {
         width: 80%;
     }
