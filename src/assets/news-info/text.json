@@ -1,6 +1,22 @@
 {
     "news": [
         {
+            "title": "VENTA A COLEGIOS",
+        "text": "Debido a la nueva ley de etiquetados, desde su lanzamiento en febrero se prohibio la venta de la mayoria de los productos a los kioscos ubicados dentro de instituciones educativas\n\nDesde el mes de mayo se VOLVIO A HABILITAR LA VENTA de todos nuestros productos sin importar si contiene o no hexagonos de etiquetado",
+            "link1": {
+                "name": "",
+                "image": "assets/images/foto-etiquetado.jpg"
+            }
+        },  
+        {
+            "title": "NUEVO ARBOL DE RMV",
+        "text": "A partir del mes de mayo contamos con un nuevo arbol de RMV para los promotores. Con la novedad de la incorporacion de NR Marketplace y la caida en peso de Tareas de BeesForce",
+            "link1": {
+                "name": "Detalle",
+                "image": "assets/images/foto-rmv.jpg"
+            }
+        },  
+        {
             "title": "TARGET Basic Store",
         "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV.\nSe encuentra dentro de los targets anuales y su forma de medicion es bimensual. Los productos necesarios para completar el Basic Store son....\n\n*ENEMIGO PEPSI: Pepsi Regular familiar sin reco\n*7up familiares\n*Mirinda\n*Gatorade\n*Gaseosas SS (si es Kiosco)\n*Gaseosas Familiares Non Sugar (si es Tradicional)\n*Vino Novecento Core\n*Vino Premium o Espumante o Gin o Sidra",
             "link1": {
@@ -16,7 +32,7 @@
                 "link": "https://bees.canjeapromo.com.ar/"
             },
             "link2": {
-                "name": "Seguimiento",
+                "name": "Seguimiento: CIERRE ABRIL",
                 "image": "assets/images/foto-target-B20.jpg"
             }
         },
@@ -24,7 +40,7 @@
             "title": "TARGET CCC MKP",
             "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales",
             "link2": {
-                "name": "Seguimiento",
+                "name": "Seguimiento: CIERRE ABRIL",
                 "image": "assets/images/foto ccc mkp.jpg"
             }
         },
@@ -32,7 +48,7 @@
             "title": "TARGET CCC Innovaciones",
             "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales.\nLos productos que aplican como Innovaciones son...\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410",
             "link1": {
-                "name": "Seguimiento",
+                "name": "Seguimiento: CIERRE ABRIL",
                 "image": "assets/images/foto-ccc-inno.jpg"
             }
         },
