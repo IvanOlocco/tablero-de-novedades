@@ -1,6 +1,21 @@
 {
     "news": [
         {
+            "title": "ACCIONES",
+        "text": "*SIN CARGO\n\n*SIN CARGO CERVEZA: NO\n*SIN CARGO UNG: SI\n*SIN CARGO MKP: SI\n\n*FICTICIOS\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*CERVEZA en funcion de necesidad.",
+            "link1": {
+               
+            }
+        },  
+        {
+            "title": "Incentivo Morixe",
+        "text": "Morixe es uno de los partners de mayor inversion en el negocio de Marketplace. Desde el mes de Abril hay un incentivo que consta en alcanzar 5 clientes con compra de cualquier producto de la marca por promotor.\n\nEl premio del mes pasado fue una botella de vino para cada uno y se alcanzo. En Mayo se replica el incentivo en busca de seguir fomentando los productos de Morixe.",
+            "link1": {
+                "name": "Seguimiento MAYO",
+                "image": "assets/images/foto-morixe.jpg"
+            }
+        },  
+        {
             "title": "VENTA A COLEGIOS",
         "text": "Debido a la nueva ley de etiquetados, desde su lanzamiento en febrero se prohibio la venta de la mayoria de los productos a los kioscos ubicados dentro de instituciones educativas\n\nDesde el mes de mayo se VOLVIO A HABILITAR LA VENTA de todos nuestros productos sin importar si contiene o no hexagonos de etiquetado",
             "link1": {
@@ -69,7 +84,7 @@
             "text": "Las tareas de ejecucion dentro de BeesForce conforman uno de los 4 pilares de la rutina del promotor de ventas. Desde el area de Demand Acceleration se le esta dando un foco especial a estas tareas ya que se encuentran en constante mejora y entrenamiento de la mano de Bees Vision, el algoritmo de reconocimiento visual que proporciona sustento a la hora de la validacion de tareas\nEste mes se hara un seguimiento aperturado por promotor para entender el avance dia a dia de tareas completadas y validadas. De manera de comprender la situacion general y particular del desempeño de cada uno",
             "link1": {
                 "name": "Tareas y POP entrenado",
-                "link": "https://docs.google.com/presentation/d/1RyrZW65hZxCKRgzM55Y819fIr04Vov8a/edit?usp=share_link&ouid=117187957927752788403&rtpof=true&sd=true"
+                "link": "https://docs.google.com/presentation/d/1f4G9qtsuAFRhzVQaVv7vo8oxVjgMmjDz/edit?usp=share_link&ouid=117187957927752788403&rtpof=true&sd=true"
             },
             "link2": {
                 "name": "Seguimiento",
