@@ -2,19 +2,27 @@
     "news": [
         {
             "title": "ACCIONES",
-        "text": "*SIN CARGO\n\n*SIN CARGO CERVEZA: NO\n*SIN CARGO UNG: SI\n*SIN CARGO MKP: SI\n\n*FICTICIOS\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*CERVEZA en funcion de necesidad.",
+        "text": "*SIN CARGO\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: SI\n*SIN CARGO MKP: SI\n\n*FICTICIOS\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*CERVEZA en funcion de necesidad.",
             "link1": {
                 "name": "VOLVIO LA ESCALONADA DE GATORADE: Calibres y sabores combinables",
                 "image": "assets/images/foto-gatorade.jpg"
+            },
+            "link2": {
+                "name": "CAJONAZO/LATAZO y 4+1",
+                "image": "assets/images/foto-cajonazo.jpg"
             }
         },  
         {
             "title": "Incentivo Morixe",
-        "text": "Morixe es uno de los partners de mayor inversion en el negocio de Marketplace. Desde el mes de Abril hay un incentivo que consta en alcanzar 5 clientes con compra de cualquier producto de la marca por promotor.\n\nEl premio del mes pasado fue una botella de vino para cada uno y se alcanzo. En Mayo se replica el incentivo en busca de seguir fomentando los productos de Morixe.",
+        "text": "Morixe es uno de los partners de mayor inversion en el negocio de Marketplace. Desde el mes de Abril hay un incentivo que consta en alcanzar 6 clientes con compra de cualquier producto de la marca por promotor.\n\nEl premio del mes pasado fue una botella de vino para cada uno y se alcanzo. En Mayo se replica el incentivo en busca de seguir fomentando los productos de Morixe.",
             "link1": {
                 "name": "Seguimiento MAYO",
                 "image": "assets/images/foto-morixe.jpg"
-            }
+            },
+            "link2": {
+                "name": "Promos",
+                "image": "assets/images/foto-morixe-promo.jpg"
+            }  
         },  
         {
             "title": "VENTA A COLEGIOS",
@@ -41,22 +49,10 @@
             }
         },
         {
-            "title": "TARGET B2O",
-            "text": "Es un programa que busca trasladar al cliente final descuentos agresivos en productos de todos los negocios.\nEl cliente accede a la promo escaneando un QR y el pdv valida un cod para recibir puntos a cambio.\nEs target mensual de la compañia y hay objetivos por promotor de manera mensual. Para cumplir con el obj el Pdv debe canjear al menos 5 promos en el mes",
-            "link1": {
-                "name": "Link para canjes",
-                "link": "https://bees.canjeapromo.com.ar/"
-            },
-            "link2": {
-                "name": "Seguimiento: CIERRE ABRIL",
-                "image": "assets/images/foto-target-B20.jpg"
-            }
-        },
-        {
             "title": "TARGET CCC MKP",
             "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales",
             "link2": {
-                "name": "Seguimiento: CIERRE ABRIL",
+                "name": "Seguimiento",
                 "image": "assets/images/foto ccc mkp.jpg"
             }
         },
@@ -64,7 +60,7 @@
             "title": "TARGET CCC Innovaciones",
             "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales.\nLos productos que aplican como Innovaciones son...\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410",
             "link1": {
-                "name": "Seguimiento: CIERRE ABRIL",
+                "name": "Seguimiento",
                 "image": "assets/images/foto-ccc-inno.jpg"
             }
         },
@@ -93,14 +89,6 @@
             }
         },
         {
-            "title": "Censo Thomas",
-            "text": "El Censo Thomas es un proceso por el cual se busca entender de manera organica el Share of Market de nuestas marcas en comparacion con las de la competencia. Los datos a recojer de cada PDV es la venta de nuestras marcas al cliente final y la de nuestros competidores, asi luego poder expresar los resultados en porcentajes y elaborar analsis en busca de optimizar los puntos fuertes y revisar los debiles\n\nEste año, el Censo es realizado mediante BeesForce. Los PDVs fueron divididos en 3 semanas de gestion, mientras que en la ultima semana todos aquellos puntos de venta no completados estaran disponibles para ser censados.\nDebido a complicaciones en los primeros dias de lanzamiento, se ha extendido el proceso una semana mas",
-            "link1": {
-                "name": "Seguimiento",
-                "image": "assets/images/foto-censo.jpg"
-            }
-        },
-        {
             "title": "PEPSI 2L Descartable",
             "text": "En toda la directa de Cordoba nos encontramos en un proceso de traspaso de la Pepsi Reco de 2l hacia la Pepsi de 2l descartable. Desde el area de NABs se esta empujando este cambio de producto ya que la RECO en cuestiones de rentabilidad siempre se encuentra al limite, mientras que la descartable, aun al mismo precio sigue otorgando mejor margen.",
             "link1": {
@@ -110,7 +98,7 @@
         },
         {
             "title": "Lista de Precios",
-            "text": "Lista de Precio actual:\n\nCVZ: 28/04/2023\nUNG: 21/04/2023\nAGUAS: 21/04/2023\nVINOS: 21/04/2023\nADY: 21/04/2023\nMKP: 28/04/2023",
+            "text": "Lista de Precio actual:\n\nCVZ: 28/04/2023\nUNG: 21/04/2023\nAGUAS: 21/04/2023\nVINOS: 21/04/2023\nADY: 21/04/2023\nMKP: 28/04/2023\n\nProximo aumento:\nUNG/AGUAS/ADY: 17/05/2023",
             "link1": {
                 "name": "Listas",
                 "link": "https://drive.google.com/drive/folders/1j6vWu98gmSJwq3DmKr8EeS-NQqOZOVeG?usp=share_link"
