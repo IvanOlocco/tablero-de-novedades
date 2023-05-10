@@ -2,7 +2,7 @@
     "news": [
         {
             "title": "ACCIONES",
-        "text": "*SIN CARGO\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: SI\n*SIN CARGO MKP: SI\n\n*FICTICIOS\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*CERVEZA en funcion de necesidad.",
+        "text": "*SIN CARGO\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: SI\n*SIN CARGO MKP: SI\n\n*FICTICIOS\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.",
             "link1": {
                 "name": "VOLVIO LA ESCALONADA DE GATORADE: Calibres y sabores combinables",
                 "image": "assets/images/foto-gatorade.jpg"
@@ -58,7 +58,7 @@
         },
         {
             "title": "TARGET CCC Innovaciones",
-            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales.\nLos productos que aplican como Innovaciones son...\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410",
+            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales.\n\nLos productos que aplican como Innovaciones son...\n\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410\n\nCOMBOS del 20% de descuento:\n\n*Combo 1 (CORE+):\nSix Pack Dorada 25384\nSix Pack Fresquita 27583\nSix Pack Quilmes 0.0 22390\n\n*Combo 2 (HE):\nSix Pack Blanche 27120\nSix Pack Corona 410 26995\nSix Pack Michelob 27478",
             "link1": {
                 "name": "Seguimiento",
                 "image": "assets/images/foto-ccc-inno.jpg"
