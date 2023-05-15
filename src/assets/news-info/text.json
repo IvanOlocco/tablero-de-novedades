@@ -2,7 +2,7 @@
     "news": [
         {
             "title": "ACCIONES",
-        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP: SI\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.",
+        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP: SI\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.\n*10% para mas de 10 bultos de Aguas.",
             "link1": {
                 "name": "VOLVIO LA ESCALONADA DE GATORADE: Calibres y sabores combinables (se carga automaticamente)",
                 "image": "assets/images/foto-gatorade.jpg"
@@ -11,7 +11,19 @@
                 "name": "CAJONAZO/LATAZO y 4+1 (se carga manual)",
                 "image": "assets/images/foto-cajonazo.jpg"
             }
-        },  
+        }, 
+        {
+            "title": "Incentivo Ejecuciones",
+        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Dos Cajas de Patagonia por a los 3 Promotores Ganadores",
+            "link1": {
+                "name": "3ª SEMANA DE MAYO: QUILMES CLASICA/VARIEDADES + B2O",
+                "image": "assets/images/foto-ejecuciones.jpg"
+            },
+            "link2": {
+                "name": "LINK AL FORM",
+                "link": "https://forms.gle/zDNn3HCEVDYmNFGc9"
+            }
+        },
         {
             "title": "Incentivo Morixe",
         "text": "Morixe es uno de los partners de mayor inversion en el negocio de Marketplace. Desde el mes de Abril hay un incentivo que consta en alcanzar 6 clientes con compra de cualquier producto de la marca por promotor.\n\nEl premio del mes pasado fue una botella de vino para cada uno y se alcanzo. En Mayo se replica el incentivo en busca de seguir fomentando los productos de Morixe.",
