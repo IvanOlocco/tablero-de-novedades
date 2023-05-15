@@ -2,7 +2,7 @@
     "news": [
         {
             "title": "ACCIONES",
-        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: SI\n*SIN CARGO MKP: SI\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.",
+        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP: SI\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.",
             "link1": {
                 "name": "VOLVIO LA ESCALONADA DE GATORADE: Calibres y sabores combinables (se carga automaticamente)",
                 "image": "assets/images/foto-gatorade.jpg"
