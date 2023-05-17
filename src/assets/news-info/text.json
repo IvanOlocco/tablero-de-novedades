@@ -2,12 +2,8 @@
     "news": [
         {
             "title": "ACCIONES",
-        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP: SI\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.\n*10% para mas de 10 bultos de Aguas.",
+        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP ALIMENTOS: SI\n*SIN CARGO MKP BEBIDAS: NO\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.\n*10% para mas de 10 bultos de Aguas.",
             "link1": {
-                "name": "VOLVIO LA ESCALONADA DE GATORADE: Calibres y sabores combinables (se carga automaticamente)",
-                "image": "assets/images/foto-gatorade.jpg"
-            },
-            "link2": {
                 "name": "CAJONAZO/LATAZO y 4+1 (se carga manual)",
                 "image": "assets/images/foto-cajonazo.jpg"
             }
@@ -110,7 +106,7 @@
         },
         {
             "title": "Lista de Precios",
-            "text": "Lista de Precio actual:\n\nCVZ: 28/04/2023\nUNG: 21/04/2023\nAGUAS: 21/04/2023\nVINOS: 21/04/2023\nADY: 21/04/2023\nMKP: 28/04/2023\n\nProximo aumento:\nUNG/AGUAS/ADY: 17/05/2023",
+            "text": "Lista de Precio actual:\n\nCVZ: 28/04/2023\nUNG: 17/05/2023\nAGUAS: 17/05/2023\nVINOS: 17/05/2023\nADY: 17/05/2023\nMKP: 28/04/2023",
             "link1": {
                 "name": "Listas",
                 "link": "https://drive.google.com/drive/folders/1j6vWu98gmSJwq3DmKr8EeS-NQqOZOVeG?usp=share_link"
