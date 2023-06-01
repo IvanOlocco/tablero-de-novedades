@@ -2,26 +2,22 @@
     "news": [
         {
             "title": "ACCIONES",
-        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP ALIMENTOS: SI\n*SIN CARGO MKP BEBIDAS: NO\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*5% para 3 bultos de HE CVZ\n*Crosschannel CERVEZA en funcion de necesidad.\n*10% para mas de 10 bultos de Aguas.",
+        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP ALIMENTOS: SI\n*SIN CARGO MKP BEBIDAS: NO\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*10% para mas de 10 bultos de Aguas.",
             "link1": {
-                "name": "CAJONAZO/LATAZO y 4+1 (se carga manual)",
+                "name": "ESCALONADAS DE BEES",
                 "image": "assets/images/foto-cajonazo.jpg"
             }
         }, 
         {
             "title": "Incentivo Ejecuciones",
-        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Dos Cajas de Patagonia por a los 3 Promotores Ganadores",
-            "link1": {
-                "name": "3ª SEMANA DE MAYO: QUILMES CLASICA/VARIEDADES + B2O",
-                "image": "assets/images/foto-ejecuciones.jpg"
-            },
+        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Dos Cajas de Patagonia por a los 3 Promotores Ganadores\n\n*1ª SEMANA DE JUNIO: ROCKSTAR, PEPSI 2L y PEPSI BLACK\n\n*Ejecuciones de Rockstar (Ideal: pegado a speed, con comunicación de precios y material de la marca, también suma si hacemos Ocasiones con bebidas blancas)\n\n*Ejecución de Pepsi 2L (Ideal: pegado a Coca Retornable, comunicando el precio de conveniencia)\n\n*Ejecución de 2x Pepsi Black de 1,5 Litros",
             "link2": {
                 "name": "LINK AL FORM",
-                "link": "https://forms.gle/zDNn3HCEVDYmNFGc9"
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLSfHdVx4qZczj0LBqkR-ArzDAJ2ULe0hqaIfl7CmQevHZ9hqvQ/viewform"
             }
         },
         {
-            "title": "Incentivo Morixe",
+            "title": "Incentivo Morixe (sin act)",
         "text": "Morixe es uno de los partners de mayor inversion en el negocio de Marketplace. Desde el mes de Abril hay un incentivo que consta en alcanzar 6 clientes con compra de cualquier producto de la marca por promotor.\n\nEl premio del mes pasado fue una botella de vino para cada uno y se alcanzo. En Mayo se replica el incentivo en busca de seguir fomentando los productos de Morixe.",
             "link1": {
                 "name": "Seguimiento MAYO",
@@ -31,14 +27,6 @@
                 "name": "Promos",
                 "image": "assets/images/foto-morixe-promo.jpg"
             }  
-        },  
-        {
-            "title": "VENTA A COLEGIOS",
-        "text": "Debido a la nueva ley de etiquetados, desde su lanzamiento en febrero se prohibio la venta de la mayoria de los productos a los kioscos ubicados dentro de instituciones educativas\n\nDesde el mes de mayo se VOLVIO A HABILITAR LA VENTA de todos nuestros productos sin importar si contiene o no hexagonos de etiquetado",
-            "link1": {
-                "name": "",
-                "image": "assets/images/foto-etiquetado.jpg"
-            }
         },  
         {
             "title": "NUEVO ARBOL DE RMV",
@@ -57,18 +45,10 @@
             }
         },
         {
-            "title": "TARGET CCC MKP",
-            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%. Todos los meses hay un dia de descuentos especiales\n\nCOMBOS:\n*1 Mini Crackers Morixe y 1 Pepas Terepin + 1 Pura Frutta de litro\n*1 Playadito x10 de 500g y 1 Pepas Terepin + 1 Pura Frutta de litro\n*1 Mini Crackers Morixe y 1 PLayadito x10 de 5000g + 1 Cereal Crowie\n*1 Playadito x10 de 500g y 1 Cereal Crowie y 1 Pan Rallado Morixe + 1 Arrocitas\n*1 Arrocitas y 1 Nachos Macritas y 1 Pura Frutta + 1 Snack Crowie",
-            "link2": {
-                "name": "Seguimiento",
-                "image": "assets/images/foto ccc mkp.jpg"
-            }
-        },
-        {
             "title": "TARGET CCC Innovaciones",
-            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%.\n\nLos productos que aplican como Innovaciones son...\n\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410\n\nCOMBOS del 20% de descuento:\n\n*Combo 1 (CORE+):\nSix Pack Dorada 25384\nSix Pack Fresquita 27583\nSix Pack Quilmes 0.0 22390\n\n*Combo 2 (HE):\nSix Pack Blanche 27120\nSix Pack Corona 410 26995\nSix Pack Michelob 27478\n\nACCIONES con Sin Cargo\n\n*Cliente que compra un six pack de (quilmes 0.0, brahma dorada, Michelob, Blanche o Corona 410) se le da una botella de fresquita sin cargo.\n*Cliente que compra dos six pack de (quilmes 0.0, brahma dorada, Michelob, o Corona 410) se le da una botella de fresquita y una de blanche sin cargo.\n*Cliente que compra las 6 variedades (quilmes 0.0, brahma dorada, Fresquita, Michelob, Blanche y Corona 410) se le da 1 six pack sin cargo.",
+            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%.\n\nLos productos que aplican como Innovaciones son...\n\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410\n\nACCIONES con Sin Cargo\n\n*Cliente que compra un six pack de (quilmes 0.0, brahma dorada, Michelob, Blanche o Corona 410) se le da una botella de fresquita sin cargo.\n*Cliente que compra dos six pack de (quilmes 0.0, brahma dorada, Michelob, o Corona 410) se le da una botella de fresquita y una de blanche sin cargo.\n*Cliente que compra las 6 variedades (quilmes 0.0, brahma dorada, Fresquita, Michelob, Blanche y Corona 410) se le dan 2 six pack sin cargo.",
             "link1": {
-                "name": "Seguimiento",
+                "name": "CIERRE MAYO",
                 "image": "assets/images/foto-ccc-inno.jpg"
             }
         },
@@ -80,32 +60,12 @@
                 "link": "https://docs.google.com/presentation/d/1Z9A70Z_UMChfimkGOd7_1gotG4N_TvF8/edit?usp=drivesdk&ouid=117187957927752788403&rtpof=true&sd=true"
             },
             "link2": {
-                "name": "Seguimiento",
+                "name": "CIERRE MAYO",
                 "image": "assets/images/foto-avance-jugos.jpg"
             }
         },
         {
-            "title": "Ejecucion Bees Force",
-            "text": "Las tareas de ejecucion dentro de BeesForce conforman uno de los 4 pilares de la rutina del promotor de ventas. Desde el area de Demand Acceleration se le esta dando un foco especial a estas tareas ya que se encuentran en constante mejora y entrenamiento de la mano de Bees Vision, el algoritmo de reconocimiento visual que proporciona sustento a la hora de la validacion de tareas\nEste mes se hara un seguimiento aperturado por promotor para entender el avance dia a dia de tareas completadas y validadas. De manera de comprender la situacion general y particular del desempeño de cada uno",
-            "link1": {
-                "name": "Tareas y POP entrenado",
-                "link": "https://docs.google.com/presentation/d/1f4G9qtsuAFRhzVQaVv7vo8oxVjgMmjDz/edit?usp=share_link&ouid=117187957927752788403&rtpof=true&sd=true"
-            },
-            "link2": {
-                "name": "Seguimiento",
-                "image": "assets/images/foto-beesvision.jpg"
-            }
-        },
-        {
-            "title": "PEPSI 2L Descartable",
-            "text": "En toda la directa de Cordoba nos encontramos en un proceso de traspaso de la Pepsi Reco de 2l hacia la Pepsi de 2l descartable. Desde el area de NABs se esta empujando este cambio de producto ya que la RECO en cuestiones de rentabilidad siempre se encuentra al limite, mientras que la descartable, aun al mismo precio sigue otorgando mejor margen.",
-            "link1": {
-                "name": "Bees",
-                "image": "assets/images/foto-pepsi2l.jpg"
-            }
-        },
-        {
-            "title": "Lista de Precios",
+            "title": "Lista de Precios (scin act)",
             "text": "Lista de Precio actual:\n\nCVZ: 28/04/2023\nUNG: 17/05/2023\nAGUAS: 17/05/2023\nVINOS: 17/05/2023\nADY: 17/05/2023\nMKP: 28/04/2023",
             "link1": {
                 "name": "Listas",
