@@ -4,29 +4,21 @@
             "title": "ACCIONES",
         "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP ALIMENTOS: SI\n*SIN CARGO MKP BEBIDAS: NO\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*10% para mas de 10 bultos de Aguas.",
             "link1": {
-                "name": "ESCALONADAS DE BEES",
+                "name": "ESCALONADAS DE BEES: Monotributistas",
                 "image": "assets/images/foto-cajonazo.jpg"
             }
         }, 
         {
             "title": "Incentivo Ejecuciones",
-        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Dos Cajas de Patagonia por a los 3 Promotores Ganadores\n\n*1ª SEMANA DE JUNIO: ROCKSTAR, PEPSI 2L y PEPSI BLACK\n\n*Ejecuciones de Rockstar (Ideal: pegado a speed, con comunicación de precios y material de la marca, también suma si hacemos Ocasiones con bebidas blancas)\n\n*Ejecución de Pepsi 2L (Ideal: pegado a Coca Retornable, comunicando el precio de conveniencia)\n\n*Ejecución de 2x Pepsi Black de 1,5 Litros",
-            "link2": {
+        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Dos Cajas de Patagonia por a los 3 Promotores Ganadores",
+            "link1": {
                 "name": "LINK AL FORM",
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSfHdVx4qZczj0LBqkR-ArzDAJ2ULe0hqaIfl7CmQevHZ9hqvQ/viewform"
-            }
-        },
-        {
-            "title": "Incentivo Morixe (sin act)",
-        "text": "Morixe es uno de los partners de mayor inversion en el negocio de Marketplace. Desde el mes de Abril hay un incentivo que consta en alcanzar 6 clientes con compra de cualquier producto de la marca por promotor.\n\nEl premio del mes pasado fue una botella de vino para cada uno y se alcanzo. En Mayo se replica el incentivo en busca de seguir fomentando los productos de Morixe.",
-            "link1": {
-                "name": "Seguimiento MAYO",
-                "image": "assets/images/foto-morixe.jpg"
             },
             "link2": {
-                "name": "Promos",
-                "image": "assets/images/foto-morixe-promo.jpg"
-            }  
+                "name": "CALENDARIO DE EJECUCIONES",
+                "image": "assets/images/foto-ejecuciones.jpg"
+            }    
         },  
         {
             "title": "NUEVO ARBOL DE RMV",
@@ -65,14 +57,14 @@
             }
         },
         {
-            "title": "Lista de Precios (scin act)",
-            "text": "Lista de Precio actual:\n\nCVZ: 28/04/2023\nUNG: 17/05/2023\nAGUAS: 17/05/2023\nVINOS: 17/05/2023\nADY: 17/05/2023\nMKP: 28/04/2023",
+            "title": "Lista de Precios",
+            "text": "Lista de Precio actual:\n\nCVZ: 31/05/2023\nUNG: 17/05/2023\nAGUAS: 17/05/2023\nVINOS: 17/05/2023\nADY: 17/05/2023\nMKP: 31/05/2023\n\nProximo aumento: UNG: 09/06/2023",
             "link1": {
                 "name": "Listas",
                 "link": "https://drive.google.com/drive/folders/1j6vWu98gmSJwq3DmKr8EeS-NQqOZOVeG?usp=share_link"
             },
             "link2": {
-                "name": "Precios Mayoristas",
+                "name": "Precios Mejor Escalonada",
                 "image": "assets/images/foto-preciosmayo.jpg"
             }    
         }                        
