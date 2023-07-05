@@ -2,15 +2,15 @@
     "news": [
         {
             "title": "ACCIONES",
-        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: NO\n*SIN CARGO MKP ALIMENTOS: SI\n*SIN CARGO MKP BEBIDAS: NO\n\n*FICTICIOS (se carga manual)\n\n*5% para 10 bultos de UNG\n*7% para 50 bultos de UNG\n*10% para mas de 10 bultos de Aguas.",
+        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: SI\n*SIN CARGO MKP ALIMENTOS: SI\n*SIN CARGO MKP BEBIDAS: NO\n\n*FICTICIOS (se carga manual)\n\n*7% para 10 bultos de UNG\n*10% para mas de 10 bultos de Aguas.",
             "link1": {
-                "name": "ESCALONADAS DE BEES: Monotributistas",
-                "image": "assets/images/foto-cajonazo.jpg"
+                "name": "PRECIOS 'MAYORISTAS': Monotributistas",
+                "image": "assets/images/foto-preciosmayo.jpg"
             }
         }, 
         {
             "title": "Incentivo Ejecuciones",
-        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Dos Cajas de Patagonia por a los 3 Promotores Ganadores",
+        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Varia en funcion de la semana.",
             "link1": {
                 "name": "LINK AL FORM",
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSfHdVx4qZczj0LBqkR-ArzDAJ2ULe0hqaIfl7CmQevHZ9hqvQ/viewform"
@@ -30,7 +30,7 @@
         },  
         {
             "title": "TARGET Basic Store",
-        "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV.\nSe encuentra dentro de los targets anuales y su forma de medicion es bimensual. Los productos necesarios para completar el Basic Store son....\n\n*ENEMIGO PEPSI: Pepsi Regular familiar sin reco\n*7up familiares\n*Mirinda\n*Gatorade\n*Gaseosas SS (si es Kiosco)\n*Gaseosas Familiares Non Sugar (si es Tradicional)\n*Vino Novecento Core\n*Vino Premium o Espumante o Gin o Sidra",
+        "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV.\nSe encuentra dentro de los targets anuales y su forma de medicion es bimensual. Los productos necesarios para completar el Basic Store son....\n\n*ENEMIGO PEPSI: Pepsi Regular familiar sin reco y sin 1.5l\n*7up familiares sin reco y sin 1.5l\n*Mirinda 2.25 y 3l\n*Gatorade\n*Gaseosas Single Serve (si es Kiosco)\n*Gaseosas Familiares Non Sugar (si es Tradicional)\n*Vino Novecento Core\n*Vino Premium o Espumante o Gin o Sidra",
             "link1": {
                 "name": "Seguimiento",
                 "link": "https://drive.google.com/drive/folders/1p9pnIQw1a-bT0DA9rSy7WGvRJCeilj6w"
@@ -40,33 +40,29 @@
             "title": "TARGET CCC Innovaciones",
             "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%.\n\nLos productos que aplican como Innovaciones son...\n\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410\n\nACCIONES con Sin Cargo\n\n*Cliente que compra un six pack de (quilmes 0.0, brahma dorada, Michelob, Blanche o Corona 410) se le da una botella de fresquita sin cargo.\n*Cliente que compra dos six pack de (quilmes 0.0, brahma dorada, Michelob, o Corona 410) se le da una botella de fresquita y una de blanche sin cargo.\n*Cliente que compra las 6 variedades (quilmes 0.0, brahma dorada, Fresquita, Michelob, Blanche y Corona 410) se le dan 2 six pack sin cargo.",
             "link1": {
-                "name": "CIERRE MAYO",
+                "name": "CIERRE JUNIO",
                 "image": "assets/images/foto-ccc-inno.jpg"
             }
         },
         {
-            "title": "Proyecto 'Sacale Jugo'",
-            "text": "Se trata de un proyecto que busca dar un foco especial al mercado de jugos, a partir de un analisis de las competencias y de los valores agregados de nuestras marcas se plantearon ciertos objetivos de aumento de Volumen y CCC.\nSACALE JUGO se implemento por primera vez en Abril en 3 territorios de una de las mesas del K+T de la Directa de Cordoba, debido a los excelentes resultados se extendio el proyecto a todo el OFF TRADE desde la 2ª quincena de Abril.\n\nActualmente el proyecto renueva esfuerzos en Mayo, con la inclusion de tareas en Bees Force en PDVs aplicables a ciertos criterios y con la extension al canal del ON PREMISE. ",
+            "title": "INCENTIVO AWAFRUT",
+            "text": "Se trata de un Incentivo que corre a partir de Julio dedicado a la marca Awafrut",
             "link1": {
-                "name": "Presentacion del Proyecto",
-                "link": "https://docs.google.com/presentation/d/1Z9A70Z_UMChfimkGOd7_1gotG4N_TvF8/edit?usp=drivesdk&ouid=117187957927752788403&rtpof=true&sd=true"
+                "name": "Presentacion del Incentivo",
+                "link": "https://docs.google.com/presentation/d/1sluft4V-MxHI-fW3Kg1idoXq-D93cnZn/edit#slide=id.p1"
             },
             "link2": {
-                "name": "CIERRE MAYO",
-                "image": "assets/images/foto-avance-jugos.jpg"
+                "name": "Seguimiento",
+                "image": ""
             }
         },
         {
             "title": "Lista de Precios",
-            "text": "Lista de Precio actual:\n\nCVZ: 31/05/2023\nUNG: 17/05/2023\nAGUAS: 17/05/2023\nVINOS: 17/05/2023\nADY: 17/05/2023\nMKP: 31/05/2023\n\nProximo aumento: UNG: 09/06/2023",
+            "text": "Lista de Precio actual:\n\nCVZ: 30/06/2023\nUNG: 09/06/2023\nAGUAS: 09/06/2023\nVINOS: 09/06/2023\nADY: 09/06/2023\nMKP: 30/06/2023\n\nProximo aumento: UNG: 12/07/2023",
             "link1": {
                 "name": "Listas",
                 "link": "https://drive.google.com/drive/folders/1j6vWu98gmSJwq3DmKr8EeS-NQqOZOVeG?usp=share_link"
-            },
-            "link2": {
-                "name": "Precios Mejor Escalonada",
-                "image": "assets/images/foto-preciosmayo.jpg"
-            }    
+            }   
         }                        
     ]   
 }
