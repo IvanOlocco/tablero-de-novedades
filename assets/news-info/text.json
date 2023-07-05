@@ -1,0 +1,68 @@
+{
+    "news": [
+        {
+            "title": "ACCIONES",
+        "text": "*SIN CARGO (se carga manual)\n\n*SIN CARGO CERVEZA: SI\n*SIN CARGO UNG: SI\n*SIN CARGO MKP ALIMENTOS: SI\n*SIN CARGO MKP BEBIDAS: NO\n\n*FICTICIOS (se carga manual)\n\n*7% para 10 bultos de UNG\n*10% para mas de 10 bultos de Aguas.",
+            "link1": {
+                "name": "PRECIOS 'MAYORISTAS': Monotributistas",
+                "image": "assets/images/foto-preciosmayo.jpg"
+            }
+        }, 
+        {
+            "title": "Incentivo Ejecuciones",
+        "text": "Desde el mes de Mayo, a modo de incentivar la presencia y ejecucion en los PDVs, se largo un incentivo que consiste en subir fotos de ejecuciones de marcas foco. El area de Demand Acceleration define las mejores 3 ejecucion de toda la directa.\n\nPara participar es necesario cumplir con 5 fotos de ejecuciones por promotor en la semana corriente.\n\nPremio: Varia en funcion de la semana.",
+            "link1": {
+                "name": "LINK AL FORM",
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLSfHdVx4qZczj0LBqkR-ArzDAJ2ULe0hqaIfl7CmQevHZ9hqvQ/viewform"
+            },
+            "link2": {
+                "name": "CALENDARIO DE EJECUCIONES",
+                "image": "assets/images/foto-ejecuciones.jpg"
+            }    
+        },  
+        {
+            "title": "NUEVO ARBOL DE RMV",
+        "text": "A partir del mes de mayo contamos con un nuevo arbol de RMV para los promotores. Con la novedad de la incorporacion de NR Marketplace y la caida en peso de Tareas de BeesForce",
+            "link1": {
+                "name": "Detalle",
+                "image": "assets/images/foto-rmv.jpg"
+            }
+        },  
+        {
+            "title": "TARGET Basic Store",
+        "text": "Es un programa que busca asegurar una cartera basica de productos de UNG, Vinos y Ady en el PDV.\nSe encuentra dentro de los targets anuales y su forma de medicion es bimensual. Los productos necesarios para completar el Basic Store son....\n\n*ENEMIGO PEPSI: Pepsi Regular familiar sin reco y sin 1.5l\n*7up familiares sin reco y sin 1.5l\n*Mirinda 2.25 y 3l\n*Gatorade\n*Gaseosas Single Serve (si es Kiosco)\n*Gaseosas Familiares Non Sugar (si es Tradicional)\n*Vino Novecento Core\n*Vino Premium o Espumante o Gin o Sidra",
+            "link1": {
+                "name": "Seguimiento",
+                "link": "https://drive.google.com/drive/folders/1p9pnIQw1a-bT0DA9rSy7WGvRJCeilj6w"
+            }
+        },
+        {
+            "title": "TARGET CCC Innovaciones",
+            "text": "Esta dentro de los Targets anuales, hay objetivos mensuales aperturados por promotor y se busca mediante combos y dinamicas a lo largo del mes llegar al 100%.\n\nLos productos que aplican como Innovaciones son...\n\n*Brahma Dorada\n*Quilmes 0.0\n*Andes Origen Fresquita\n*Stella Blanche\n*Michelob\n*Corona 410\n\nACCIONES con Sin Cargo\n\n*Cliente que compra un six pack de (quilmes 0.0, brahma dorada, Michelob, Blanche o Corona 410) se le da una botella de fresquita sin cargo.\n*Cliente que compra dos six pack de (quilmes 0.0, brahma dorada, Michelob, o Corona 410) se le da una botella de fresquita y una de blanche sin cargo.\n*Cliente que compra las 6 variedades (quilmes 0.0, brahma dorada, Fresquita, Michelob, Blanche y Corona 410) se le dan 2 six pack sin cargo.",
+            "link1": {
+                "name": "CIERRE JUNIO",
+                "image": "assets/images/foto-ccc-inno.jpg"
+            }
+        },
+        {
+            "title": "INCENTIVO AWAFRUT",
+            "text": "Se trata de un Incentivo que corre a partir de Julio dedicado a la marca Awafrut",
+            "link1": {
+                "name": "Presentacion del Incentivo",
+                "link": "https://docs.google.com/presentation/d/1sluft4V-MxHI-fW3Kg1idoXq-D93cnZn/edit#slide=id.p1"
+            },
+            "link2": {
+                "name": "Seguimiento",
+                "image": ""
+            }
+        },
+        {
+            "title": "Lista de Precios",
+            "text": "Lista de Precio actual:\n\nCVZ: 30/06/2023\nUNG: 09/06/2023\nAGUAS: 09/06/2023\nVINOS: 09/06/2023\nADY: 09/06/2023\nMKP: 30/06/2023\n\nProximo aumento: UNG: 12/07/2023",
+            "link1": {
+                "name": "Listas",
+                "link": "https://drive.google.com/drive/folders/1j6vWu98gmSJwq3DmKr8EeS-NQqOZOVeG?usp=share_link"
+            }   
+        }                        
+    ]   
+}
